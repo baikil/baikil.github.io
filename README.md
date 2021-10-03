@@ -1,5 +1,5 @@
 ## My projects
-![spicetm.ico](https://raw.githubusercontent.com/baikil/spice-tm/main/spice-tm.ico)
+![spice-tm logo](https://raw.githubusercontent.com/baikil/spice-tm/main/spice-tm.png)
 [Spice-tm](https://github.com/baikil/spice-tm)
 
 
