@@ -1,5 +1,7 @@
 ## My projects
-![Spice-tm logo](https://raw.githubusercontent.com/baikil/spice-tm/main/spice-tm_32px.png)[Spice-tm](https://github.com/baikil/spice-tm)
+Name | Description
+---- | -----------
+![Spice-tm logo](https://raw.githubusercontent.com/baikil/spice-tm/main/spice-tm_32px.png)[Spice-tm](https://github.com/baikil/spice-tm) | Spicetify theme manager
 
 ## About me
 
