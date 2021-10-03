@@ -1,6 +1,6 @@
 ## My projects
 ![Spice-tm logo](https://raw.githubusercontent.com/baikil/spice-tm/main/spice-tm.png)[Spice-tm](https://github.com/baikil/spice-tm)
-![]()
+![16px](file:///C:/Users/Raf/Desktop/spice-tm_16px.png)
 
 
 ## About me
