@@ -1,9 +1,6 @@
 ## Baikil
 
-You can use the [editor on GitHub](https://github.com/baikil/baikil.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Hi, I'm still a high school student but I'm currently self learning _Batch and Powershell_.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
