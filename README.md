@@ -7,4 +7,4 @@ Icon|Name|Description
 
 ## About me
 
-Hi, I'm still a high school student but I'm currently self learning _Batch and Powershell_. I mainly specialise in _.bat_ programs right now but I'm aming for more powerful languages like **C** (and few of it's variants), Java (JavaScript), Python and maybe a few others along the way. Becoming a jack of all trades is my goal and now I'm only at my begining.
+Hi, I'm still a high school student but I'm currently self learning _Batch and Powershell_. I mainly specialise in _.bat_ programs right now but I'm aming for more powerful languages like **C** (and few of it's variants), **Java** (JavaScript), **Python** and maybe a few others along the way. Becoming a jack of all trades is my goal and now I'm only at my begining.
