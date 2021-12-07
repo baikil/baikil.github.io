@@ -2,8 +2,8 @@
 
 Icon|Name|Description
 -|-|-
-![Spice-tm logo](https://github.com/baikil/spice-tm/blob/main/spice-tm_32px.png)|[Spice-tm](https://github.com/baikil/spice-tm)|Spicetify theme manager
-![n/a](https://github.com/baikil/baikil.github.io/blob/main/n_a.png)|[ansiimage](https://github.com/baikil/ansiimage)|ANSI escape code Image format
+![Spice-tm logo](https://github.com/baikil/spice-tm/blob/main/spice-tm_32px.png?raw=true)|[Spice-tm](https://github.com/baikil/spice-tm)|Spicetify theme manager
+![n/a](https://github.com/baikil/baikil.github.io/blob/main/n_a.png?raw=true)|[ansiimage](https://github.com/baikil/ansiimage)|ANSI escape code Image format
 ![adbm logo](https://github.com/baikil/adbmanager/blob/main/adbm_32px.png?raw=true)|[adbm](https://github.com/baikil/adbmanager/releases)|Android debug bridge manager
 
 ## About me
